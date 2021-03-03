@@ -15,11 +15,9 @@ print ('''
 | |__| |__|_____/ ___ \ |_| || (_| | (__|   <
  \____\____|   /_/   \_\__|\__\__,_|\___|_|\_\\
 Python3 version 1.1
-                            Cobed by Leeon123
+                            CODADO BY LB DUS HACK
 >---------------------------------------------<
-             If you want to stop
-            this script, pls just
-              close the window.
+             Yunna e fof kkk.
 >---------------------------------------------<''')
 
 useragents=["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.0.1 Fennec/10.0.1",
