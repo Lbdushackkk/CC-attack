@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#Coded by Leeon123
+#Coded by LB HACKER
 
 import socket
 import socks
@@ -17,7 +17,7 @@ print ('''
 Python3 version 1.1
                             MODDED BY LB DUS HACK
 >---------------------------------------------<
-             PYSHICO A MAIS FOF DA WEB
+             PSYCHO A MAIS FOF DA WEB
 
 >---------------------------------------------<''')
 
